@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\bin\Debug\net9.0\E2TiempoHoras.exe
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\bin\Debug\net9.0\E2TiempoHoras.deps.json
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\bin\Debug\net9.0\E2TiempoHoras.runtimeconfig.json
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\bin\Debug\net9.0\E2TiempoHoras.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\bin\Debug\net9.0\E2TiempoHoras.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\refint\E2TiempoHoras.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\E2TiempoHoras.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E2TiempoHoras\obj\Debug\net9.0\ref\E2TiempoHoras.dll

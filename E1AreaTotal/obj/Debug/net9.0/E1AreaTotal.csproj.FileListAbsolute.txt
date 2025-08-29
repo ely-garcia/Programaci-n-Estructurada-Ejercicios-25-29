@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\bin\Debug\net9.0\E1AreaTotal.exe
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\bin\Debug\net9.0\E1AreaTotal.deps.json
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\bin\Debug\net9.0\E1AreaTotal.runtimeconfig.json
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\bin\Debug\net9.0\E1AreaTotal.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\bin\Debug\net9.0\E1AreaTotal.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\refint\E1AreaTotal.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\E1AreaTotal.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E1AreaTotal\obj\Debug\net9.0\ref\E1AreaTotal.dll

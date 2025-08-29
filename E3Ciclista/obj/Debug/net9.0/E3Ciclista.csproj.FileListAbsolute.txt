@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\bin\Debug\net9.0\E3Ciclista.exe
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\bin\Debug\net9.0\E3Ciclista.deps.json
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\bin\Debug\net9.0\E3Ciclista.runtimeconfig.json
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\bin\Debug\net9.0\E3Ciclista.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\bin\Debug\net9.0\E3Ciclista.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\refint\E3Ciclista.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\E3Ciclista.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E3Ciclista\obj\Debug\net9.0\ref\E3Ciclista.dll

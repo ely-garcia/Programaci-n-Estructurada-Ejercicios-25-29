@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\bin\Debug\net9.0\AñoBisiesto.exe
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\bin\Debug\net9.0\AñoBisiesto.deps.json
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\bin\Debug\net9.0\AñoBisiesto.runtimeconfig.json
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\bin\Debug\net9.0\AñoBisiesto.dll
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\bin\Debug\net9.0\AñoBisiesto.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.dll
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\refint\AñoBisiesto.dll
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\AñoBisiesto.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programacion Estructurada\AñoBisiesto\obj\Debug\net9.0\ref\AñoBisiesto.dll

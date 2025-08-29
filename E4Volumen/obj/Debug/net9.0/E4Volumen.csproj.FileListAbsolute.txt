@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\bin\Debug\net9.0\E4Volumen.exe
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\bin\Debug\net9.0\E4Volumen.deps.json
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\bin\Debug\net9.0\E4Volumen.runtimeconfig.json
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\bin\Debug\net9.0\E4Volumen.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\bin\Debug\net9.0\E4Volumen.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\refint\E4Volumen.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\E4Volumen.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E4Volumen\obj\Debug\net9.0\ref\E4Volumen.dll

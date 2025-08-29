@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\bin\Debug\net9.0\E5CantidadBaldes.exe
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\bin\Debug\net9.0\E5CantidadBaldes.deps.json
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\bin\Debug\net9.0\E5CantidadBaldes.runtimeconfig.json
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\bin\Debug\net9.0\E5CantidadBaldes.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\bin\Debug\net9.0\E5CantidadBaldes.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.AssemblyInfo.cs
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\refint\E5CantidadBaldes.dll
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.pdb
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\E5CantidadBaldes.genruntimeconfig.cache
+C:\Users\HP\Desktop\Programacion Estructurada\E5CantidadBaldes\obj\Debug\net9.0\ref\E5CantidadBaldes.dll
